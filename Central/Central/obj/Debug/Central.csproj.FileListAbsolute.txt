@@ -1,0 +1,45 @@
+C:\Users\ricar\source\repos\Central\Central\bin\Debug\Central.exe.config
+C:\Users\ricar\source\repos\Central\Central\bin\Debug\Central.exe
+C:\Users\ricar\source\repos\Central\Central\bin\Debug\Central.pdb
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.Verificacao.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.Properties.Resources.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.csproj.GenerateResource.cache
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exe
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.pdb
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.telaPrincipal.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadCliente.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadInfo.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadBanco.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadCompra.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadRecibo.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.cadGasto.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exInfo.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exBanco.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exCompras.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exRecibo.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exGasto.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.exCliente.resources
+C:\Users\ricar\source\repos\Central\Central\obj\Debug\Central.csprojAssemblyReference.cache
+C:\Users\ricar\Downloads\Central (1)\Central\Central\bin\Debug\Central.exe.config
+C:\Users\ricar\Downloads\Central (1)\Central\Central\bin\Debug\Central.exe
+C:\Users\ricar\Downloads\Central (1)\Central\Central\bin\Debug\Central.pdb
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.csprojAssemblyReference.cache
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.Verificacao.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exInfo.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exBanco.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exCompras.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exRecibo.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exGasto.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.telaPrincipal.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadCliente.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadInfo.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadBanco.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadCompra.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadRecibo.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.cadGasto.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exCliente.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.Properties.Resources.resources
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.csproj.GenerateResource.cache
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.exe
+C:\Users\ricar\Downloads\Central (1)\Central\Central\obj\Debug\Central.pdb
